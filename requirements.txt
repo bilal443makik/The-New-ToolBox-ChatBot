@@ -11,4 +11,4 @@ python-docx
 pypdf
 python-dotenv
 langchain_experimental
-PyPDF2
+PyPDF2 
